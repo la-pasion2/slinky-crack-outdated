@@ -7,6 +7,8 @@ As this repository does not contain source code, it is provided "as-is" and "use
 
 This crack is an outdated version of Slinky and does not include many of the newer features. See [Modules](#modules) for details.
 
+Injecting the cheat too early (before minecraft has fully initialised) can result in crashes, to be safe just inject after minecraft has done initialising.
+
 # Information (From Slinky Documentation)
 Cheats like Slinky may be falsely flagged as malware. If you experience errors when running the loader, you may need to add an exclusion in Windows Defender or other antivirus software.
 
